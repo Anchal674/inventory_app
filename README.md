@@ -55,4 +55,19 @@ This project leverages **Python, Pandas, and Streamlit** to:
 ---
 
 ## 📁 Project Structure
-
+---
+inventory_app/
+│
+├── app.py # Main Streamlit application
+├── README.md # Project documentation
+├── requirements.txt # Python dependencies
+│
+├── data/ # Dataset folder
+│ ├── SalesFINAL12312016.csv
+│ ├── PurchasesFINAL12312016.csv
+│ ├── BegInvFINAL12312016.csv
+│ └── EndInvFINAL12312016.csv
+│
+└── notebooks/
+└── Slooze_project.ipynb # Data exploration & analysis notebook
+---
