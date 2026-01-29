@@ -55,7 +55,7 @@ This project leverages **Python, Pandas, and Streamlit** to:
 ---
 
 ## 📁 Project Structure
-'''
+```
 inventory_app/
 │
 ├── app.py # Main Streamlit application
@@ -70,4 +70,4 @@ inventory_app/
 │
 └── notebooks/
 └── Slooze_project.ipynb # Data exploration & analysis notebook
-'''
+```
