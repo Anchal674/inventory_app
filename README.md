@@ -92,3 +92,16 @@ inventory_app/
 git clone https://github.com/your-username/inventory-optimization-dashboard.git
 cd inventory_app
 ```
+### 2️⃣ Create Virtual Environment (Optional but Recommended)
+```
+python -m venv venv
+```
+### 3️⃣ Install Dependencies
+```
+pip install -r requirements.txt
+
+```
+### 4️⃣ Run the Streamlit App
+```
+streamlit run app.py
+```
