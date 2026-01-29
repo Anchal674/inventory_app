@@ -71,3 +71,24 @@ inventory_app/
 └── notebooks/
 └── Slooze_project.ipynb # Data exploration & analysis notebook
 ```
+
+---
+
+## 📦 Dataset Description
+
+| File Name | Description |
+|---------|-------------|
+| SalesFINAL12312016.csv | Sales transaction data |
+| PurchasesFINAL12312016.csv | Purchase transactions |
+| BegInvFINAL12312016.csv | Beginning inventory |
+| EndInvFINAL12312016.csv | Ending inventory |
+
+---
+
+## ⚙️ Installation & Setup (Run Locally)
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/inventory-optimization-dashboard.git
+cd inventory_app
+```
